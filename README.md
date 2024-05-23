@@ -1,2 +1,2 @@
-# YetGen-Core-Python
+# elaoztu
 12 hafta
